@@ -24,6 +24,7 @@ const HTML_TYPES = [
   'nunjucks',
   'haml',
   'leaf',
+  'liquid',
   'HTML (Eex)'
 ]
 const CSS_TYPES = ['css', 'sass', 'scss', 'less', 'stylus']
